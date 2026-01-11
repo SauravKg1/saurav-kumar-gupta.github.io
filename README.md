@@ -1,53 +1,27 @@
 # 👋 Hi, I'm Saurav Kumar Gupta
+📍 Houston, TX • 📧 sg275@rice.edu • 🔗 linkedin.com/in/sauravkrgupta/  
 
-### 🚀 3-Line Summary
-I'm a Software Developer and Data Science graduate student at Rice University with hands-on experience building scalable, production-grade systems at SAP Labs and Cognizant.  
-I specialize in backend engineering, cloud deployment, sustainability analytics, and automation using Java, Python, and modern DevOps tooling.  
-My work is driven by impact — whether reducing emissions reporting errors, optimizing data pipelines, or automating CI/CD for faster product delivery.
-
----
-
-## 🧑‍💼 Experience
-
-### 🌍 SAP Labs India — Software Developer Associate  
-*Mar 2022 – Aug 2025*  
-- Led **Sustainability Footprint Management (SFM)** development to calculate product & corporate GHG emissions (PCF, CCF) with improved reporting accuracy.  
-- Built internal APIs to **automate application usage analytics**, enabling data-driven product decisions.  
-- Implemented **emissions logic for freight & production**, increasing transparency for ESG reporting.  
-- Created a **Java-based data cleanup library** and optimized analytics dashboard → *40% data inconsistency reduction + 20% performance boost*.  
-- Executed **DevOps & multi-tenancy upgrades on SAP BTP**, reducing deployment time by 25%.  
-- Automated CI/CD via **GitHub Actions**, cutting manual effort by 10% and deployment errors by 12%.
-
-### 💻 Cognizant Technology Solutions — Programmer Analyst Trainee  
-*Jul 2021 – Dec 2021*  
-- Completed 6-month full-stack engineering program in **Java, J2EE, SQL**, with hands-on project execution.  
-- Developed backend modules in simulated real-world projects under SME mentorship.  
-- Strengthened scalable code design through continuous reviews, assessments & code challenges.
+**3-line summary**
+- Software + data engineer with around 3 years at SAP Labs building cloud-native services, analytics APIs, and CI/CD automation.  
+- Data-science MS @ Rice (Dec 2026) with hands-on work in streaming analytics, sketching algorithms, and ML-based detection.  
+- Interested in **Software Engineering / Data Engineering / ML Engineering** roles focused on scalable systems and measurable impact.
 
 ---
 
-## 📂 Projects (Industry + Academic)
+## 👋 About
+I build reliable backend systems and data products—APIs, pipelines, and analytics—backed by solid engineering practices (testing, CI/CD, observability) and a data-driven mindset (metrics, evaluation, experiments).
 
-| Project | Tech | Summary |
-|---------|------|---------|
-| **Sustainability Footprint Management (SAP)** | Java, SAP BTP, APIs | End-to-end system for GHG emissions computation at product & corporate level |
-| **CI/CD Automation Pipeline** | GitHub Actions, DevOps | Automated deployment workflows → 10% effort reduction, 12% error drop |
-| **Network Anomaly Detection (ML)** | Python, NumPy, Keras | 91% attack-detection accuracy on UNSW dataset using ML model comparison |
-| **Banking System Simulation** | Java Swing, MySQL | ACID-compliant transaction app with real-world banking logic |
-| **Library Management System (Web App)** | JSP, Servlets, MySQL | Full-stack CRUD system for library inventory and operations |
+**Focus areas:** backend development • distributed/cloud systems • stream analytics • ML evaluation • DevOps automation
 
 ---
 
-## 🛠️ Tech & Soft Skills
+## 🧰 Tech Stack
+- **Languages:** Java, Python, JavaScript, TypeScript, Node.js, C  
+- **Cloud/DevOps:** AWS, GitHub Actions, CI/CD, SAP BTP  
+- **Databases:** SQL, SAP HANA  
+- **Frameworks/Tools:** Spring Boot
 
-### 💻 Technical Skills
-**Languages:** Java, Python, C, JavaScript, TypeScript, Node.js  
-**Frontend/Frameworks:** SAP UI5, SAP Fiori  
-**Databases:** SQL, SAP HANA, MongoDB  
-**Cloud & DevOps:** SAP BTP, GitHub Actions, CI/CD, Multi-tenancy systems  
-**Certifications:** Python for Everybody (Coursera), Cloud Native Java Developer (SAP), DB Essentials  
-
-### 🤝 Soft Skills
+## 🤝 Soft Skills
 - Cross-functional collaboration (worked with PMs, DevOps, Product teams)
 - Problem-solving & analytical thinking
 - Mentorship, documentation, and agile delivery
@@ -55,21 +29,51 @@ My work is driven by impact — whether reducing emissions reporting errors, opt
 
 ---
 
-## 📎 Documents & Links
+## 💼 Experience
+### SAP Labs India — Software Developer Associate (Mar 2022 – Aug 2025)
+- Led **Sustainability Footprint Management (SFM)** engineering to compute GHG emissions (PCF/CCF) for compliance-ready reporting.
+- Built and shipped **APIs for automated monthly usage reporting**, enabling data-driven product strategy.
+- Implemented freight + production emissions logic to improve transparency and accuracy of sustainability reporting.
+- Developed a **Java data cleanup library** and improved analytics dashboards (**40% fewer inconsistencies**, **20% performance boost**).
+- Drove DevOps improvements for DwC + multi-tenancy on SAP BTP (**25% faster deployments**) and improved reliability.
+- Automated CI/CD workflows with **GitHub Actions**, reducing manual effort and errors.
 
-| Type | Link |
-|------|------|
-| 📄 Resume | *(attach PDF in repo or GitHub pages)* |
-| 🔗 LinkedIn | [linkedin.com/in/sauravkrgupta](https://www.linkedin.com/in/sauravkrgupta/) |
-| 🌐 Portfolio Website | *(add if available)* |
+---
+
+## 🚀 Projects (Academic)
+| Project | What it is | Tech | Highlights | Link |
+|---|---|---|---|---|
+| **Adaptive Multi-Resolution Count-Min Sketch for Real-Time Stream Analytics** | Recency-aware sketching variants for high-volume streams | Python | Built **4 deletion-free CMS variants** (Ring Buffer, Hokusai, Ada-Sketch, BurstSketch); replayed **9M Reddit 4-gram events**; achieved **0.00275 weighted rel-L1** (Hokusai, w=32768) and **6.19M events/s** throughput (BurstSketch, w=16384) | [_Add repo link_](https://github.com/SauravKg1/COMP580-ProbabilisticAlgorithmsAndDataStructures/tree/main/project) |
+| **Network Anomaly Detection** | ML pipeline to detect attacks on UNSW dataset | Python, NumPy, Keras | Reached **91% accuracy**; compared models across data types and selected Random Forest as top performer |
+| **Banking Application (ACID Transactions)** | End-to-end banking simulation with transactional integrity | Core Java, Java Swing, MySQL | Implemented durable and consistent transaction handling with ACID principles; built UI + backend + DB integration |
+
 
 ---
 
-### 🔍 Currently Open To
-✅ Software Engineering Internships  
-✅ Data Engineering / ML Engineering Roles  
-✅ Cloud + Backend Development Projects
+## 🎓 Education
+- **Rice University (Houston, TX)** — **M.S. Computer Science (Data Science)**, Expected **Dec 2026**  • GPA: **8.44/10**
+- **MS Ramaiah Institute of Technology (Bangalore, India)** — **B.E. Information Science and Engineering**, **Aug 2021** • GPA: **8.44/10**
 
 ---
+
+## 📜 Certifications
+- **AWS Certified Developer – Associate (DVA-C02)**
+- Cloud Native Java Developer (SAP Labs)
+- Python for Everyone (Coursera)
+- Database Management Essentials (Coursera)
+
+---
+
+## 🧩 What I’m looking for
+- Software Engineering Internships/Full time opportunities    
+- Data Science/Engineering or ML Engineering Roles  
+- **ML/Applied Data**: model evaluation, anomaly detection, productionizing ML
+
+---
+
+## 🤝 Connect
+- Email: **sg275@rice.edu**
+- LinkedIn: **linkedin.com/in/sauravkrgupta/**
+- Location: **Houston, TX**
 
 ⭐ *Thanks for visiting! Feel free to explore my repositories or connect with me.*
