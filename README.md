@@ -43,7 +43,7 @@ I build reliable backend systems and data products—APIs, pipelines, and analyt
 ## 🚀 Projects (Academic)
 | Project | What it is | Tech | Highlights | Link |
 |---|---|---|---|---|
-| **Adaptive Multi-Resolution Count-Min Sketch for Real-Time Stream Analytics** | Recency-aware sketching variants for high-volume streams | Python | Built **4 deletion-free CMS variants** (Ring Buffer, Hokusai, Ada-Sketch, BurstSketch); replayed **9M Reddit 4-gram events**; achieved **0.00275 weighted rel-L1** (Hokusai, w=32768) and **6.19M events/s** throughput (BurstSketch, w=16384) | [_Add repo link_](https://github.com/SauravKg1/COMP580-ProbabilisticAlgorithmsAndDataStructures/tree/main/project) |
+| **Adaptive Multi-Resolution Count-Min Sketch for Real-Time Stream Analytics** | Recency-aware sketching variants for high-volume streams | Python | Built **4 deletion-free CMS variants** (Ring Buffer, Hokusai, Ada-Sketch, BurstSketch); replayed **9M Reddit 4-gram events**; achieved **0.00275 weighted rel-L1** (Hokusai, w=32768) and **6.19M events/s** throughput (BurstSketch, w=16384) | [_Github_](https://github.com/SauravKg1/COMP580-ProbabilisticAlgorithmsAndDataStructures/tree/main/project) |
 | **Network Anomaly Detection** | ML pipeline to detect attacks on UNSW dataset | Python, NumPy, Keras | Reached **91% accuracy**; compared models across data types and selected Random Forest as top performer |
 | **Banking Application (ACID Transactions)** | End-to-end banking simulation with transactional integrity | Core Java, Java Swing, MySQL | Implemented durable and consistent transaction handling with ACID principles; built UI + backend + DB integration |
 
