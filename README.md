@@ -51,7 +51,7 @@ I build reliable backend systems and data products—APIs, pipelines, and analyt
 ---
 
 ## 🎓 Education
-- **Rice University (Houston, TX)** — **M.S. Computer Science (Data Science)**, Expected **Dec 2026**  • GPA: **8.44/10**
+- **Rice University (Houston, TX)** — **M.S. Computer Science (Data Science)**, Expected **Dec 2026**  • GPA: **3.92/4.0**
 - **MS Ramaiah Institute of Technology (Bangalore, India)** — **B.E. Information Science and Engineering**, **Aug 2021** • GPA: **8.44/10**
 
 ---
