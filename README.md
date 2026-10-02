@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Saurav Kumar Gupta
-📍 Houston, TX • 📧 [sg275@rice.edu](mailto:sg275@rice.edu) • 🔗 [linkedin.com/in/sauravkrgupta](https://www.linkedin.com/in/sauravkrgupta/)  
+📍 Houston, TX • 📧 [sauravkg111@gmail.com](mailto:sauravkg111@gmail.com) • 🔗 [linkedin.com/in/sauravkrgupta](https://www.linkedin.com/in/sauravkrgupta/)  
 
 **3-line summary**
 - Software + data engineer with 3+ years at SAP Labs building backend services, ETL pipelines, and CI/CD automation, plus an AI internship at McAfee.  
@@ -83,7 +83,7 @@ I build reliable backend systems and data products: APIs, pipelines, and analyti
 ---
 
 ## 🤝 Connect
-- Email: **[sg275@rice.edu](mailto:sg275@rice.edu)**
+- Email: **[sauravkg111@gmail.com](mailto:sauravkg111@gmail.com)**
 - LinkedIn: **[linkedin.com/in/sauravkrgupta](https://www.linkedin.com/in/sauravkrgupta/)**
 - Location: **Houston, TX**
 
